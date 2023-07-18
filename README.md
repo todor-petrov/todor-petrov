@@ -1,4 +1,4 @@
-Hi 👋 My name is Todor Petrov
+👋Todor Petrov
 =============================
 
 Python Developer
