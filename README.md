@@ -4,12 +4,11 @@ Hi 👋 My name is Todor Petrov
 Python Developer
 ----------------
 
-* 🌍  I'm based in Varna, Bulgaria
-* ✉️  You can contact me at [creative.pro.15@gmail.com](mailto:creative.pro.15@gmail.com)
-* 🧠  I'm learning Python Web - Django
+* 🌍  I'm based in Varna, Bulgaria
+* ✉️  You can contact me at [creative.pro.15@gmail.com](mailto:creative.pro.15@gmail.com)
+* 🧠  I'm learning Python Web - Django
 
 ### Skills
-
 
 <p align="left">
 <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
@@ -19,11 +18,9 @@ Python Developer
 <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/django-colored.svg" width="36" height="36" alt="Django" /></a>
 </p>
 
-
 ### Socials
 
 <p align="left"> <a href="https://www.github.com/todor-petrov" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a></p>
-
 ### Badges
 
 <b>My GitHub Stats</b>
