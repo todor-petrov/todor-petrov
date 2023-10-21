@@ -4,9 +4,9 @@
 Python Developer
 ----------------
 
-* 🌍  I'm based in Varna, Bulgaria
-* ✉️  You can contact me at [creative.pro.15@gmail.com](mailto:creative.pro.15@gmail.com)
-* 🧠  I'm learning Python Web - Django
+* 🌍  Based in Varna, Bulgaria
+* ✉️  [creative.pro.15@gmail.com](mailto:creative.pro.15@gmail.com)
+* 🧠  Looking for new opportunuties
 
 ### Skills
 
