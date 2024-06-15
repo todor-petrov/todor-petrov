@@ -5,8 +5,7 @@ Python Developer
 ----------------
 
 * 🌍  Based in Bulgaria
-* ✉️  [creative.pro.15@gmail.com](mailto:creative.pro.15@gmail.com)
-* 🧠  Looking for new opportunuties
+
 
 ### Skills
 
