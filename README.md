@@ -1,7 +1,7 @@
 👋Todor Petrov
 =============================
 
-Python Developer
+Python
 ----------------
 
 * 🌍  Based in Bulgaria
